@@ -1,5 +1,0 @@
-{
-  fn: @contact.first_name,
-  ln: @contact.last_name,
-  email: @contact.email
-}
